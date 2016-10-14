@@ -1,0 +1,16 @@
+15 15
+aa0 ab5 ac0 ad0 ae0 af0 ag0 ah0 ai0 aj0 ak0 al0 am0 an0 ao0 
+ap0 aq6 ar6 as5 at0 au1 av1 aw3 ax2 ay6 az6 ba6 bb5 bc6 bd0 
+be0 bf0 bg0 bh7 bi0 bj1 bk0 bl8 bm0 bn5 bo0 bp4 bq0 br0 bs0 
+bt0 bu5 bv0 bw7 bx0 by2 bz0 ca7 cb7 cc6 cd0 ce4 cf4 cg6 ch0 
+ci0 cj5 ck0 cl2 cm0 cn5 co0 cp4 cq0 cr6 cs0 ct4 cu0 cv7 cw0 
+cx0 cy6 cz0 da2 db0 dc5 dd5 de3 df0 dg6 dh0 di5 dj0 dk8 dl0 
+dm0 dn7 do0 dp3 dq0 dr8 ds0 dt7 du0 dv1 dw0 dx9 dy0 dz2 ea0 
+eb0 ec8 ed7 ee3 ef0 eg8 eh8 ei6 ej7 ek2 el2 em9 en0 eo1 ep0 
+eq0 er7 es0 et0 eu0 ev2 ew0 ex2 ey0 ez9 fa0 fb7 fc0 fd6 fe0 
+ff0 fg7 fh0 fi5 fj4 fk2 fl0 fm1 fn1 fo8 fp0 fq7 fr6 fs5 ft0 
+fu0 fv5 fw0 fx2 fy0 fz1 ga0 gb0 gc0 gd2 ge0 gf3 gg0 gh0 gi0 
+gj0 gk5 gl0 gm2 gn0 go1 gp2 gq6 gr5 gs2 gt0 gu2 gv3 gw1 gx0 
+gy0 gz8 ha0 hb3 hc0 hd1 he0 hf2 hg0 hh5 hi0 hj1 hk0 hl8 hm0 
+hn0 ho8 hp9 hq2 hr0 hs1 ht1 hu2 hv1 hw5 hx6 hy1 hz2 ia7 ib0 
+ic0 id0 ie0 if0 ig0 ih0 ii0 ij0 ik0 il0 im0 in0 io0 ip1 iq0 
